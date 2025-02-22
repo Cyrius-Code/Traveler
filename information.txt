@@ -38,8 +38,8 @@ traffic accident: there was a crash you have lost 20% of your hp and 35% of your
 
 
 time 
-45 mins - 55 mins = 70% event chance
-1 hr - 1hr 30 mins = 55% event chance 
+40 mins - 55 mins = 80% event chance
+1 hr - 1hr 30 mins = 60% event chance 
 1 hr 35 mins to 2 hrs =  40% event chance3
 2 hrs+ = 20% chance for event
 busD will always be 50% chance it unless buss time is less than 55mins 
@@ -72,7 +72,13 @@ busC 2 hrs
 busD from 1 hr to 1 hr 50 mins 
 
 pathway4 manchester to birmingham:
-busA 1 hr 30mins 
-busB 55 mins
-busC 2 hrs
-busD from 1 hr to 1 hr 50 mins 
+busA 40 mins 
+busB 1 hr mins
+busC 1 hr 15 mins
+busD from 45 mins to 1 hr 5 mins 
+
+pathway5 birmingham to london:
+busA 40 mins 
+busB 45 mins
+busC 55 mins
+busD from 40 mins to 55 mins
