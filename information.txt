@@ -84,4 +84,4 @@ pathway5 birmingham to london:
 busA from 40 mins to 55 mins
 busB from 40 mins to 55 mins
 busC from 40 mins to 55 mins
-busD from 40 mins to 55 mins
+busD 1 hr
