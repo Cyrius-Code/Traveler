@@ -17,7 +17,7 @@ Main points:
 you will take different of your choice bus to reach the airport on time but each of the bus have different chances of event happening base on the times the longer that bus takes to reach a setpoints the less chance of an event and vise-verse
 
 5 checkpoints aberdeen, edinburgh, manchester, birmingham and london
-once reaching the 3rd checkpoint there will be a sanity check and hunger check if below or equal tp 50% you will be force to take detour to increase your bar
+once reaching the 3rd checkpoint there will be a sanity check and hunger check if below or equal to 50% you will be force to take detour to increase your bar
 
 win:
 basic win: get there on time with health 50% and above also santiy and hunger bar is above 40% and above 
