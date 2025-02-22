@@ -42,15 +42,16 @@ time
 1 hr - 1hr 30 mins = 60% event chance 
 1 hr 35 mins to 2 hrs =  40% event chance3
 2 hrs+ = 20% chance for event
-busD will always be 50% chance it unless buss time is less than 55mins 
+the randomised option will always be 50% chance it unless bus time is less than 55 mins then its 80%
 
-pathways =  checkpoint
+pathways = checkpoint
 
 pathways1 aberdeen to edinburgh: 
 busA 1 hr  
-busB 1 hr 10 mins 
-busC 45 mins
-busD from 40 mins to 1 hr 30 mins 
+busB from 40 mins to 1 hr 30 mins 
+busC 1 hr 10 mins 
+busD 45 mins
+
 
 pathway2 edinburgh to manchester:
 bus1A 2 hrs  
@@ -68,17 +69,19 @@ bus2D 1 hr
 pathway3 manchester to birmingham:
 busA 1 hr 30mins 
 busB 55 mins
-busC 2 hrs
-busD from 1 hr to 1 hr 50 mins 
+busC from 1 hr to 1 hr 50 mins
+busD 2 hrs
+ 
 
 pathway4 manchester to birmingham:
-busA 40 mins 
-busB 1 hr mins
-busC 1 hr 15 mins
-busD from 45 mins to 1 hr 5 mins 
+busA from 45 mins to 1 hr 5 mins 
+busB 40 mins 
+busC 1 hr mins
+busD 1 hr 15 mins
+
 
 pathway5 birmingham to london:
-busA 40 mins 
-busB 45 mins
-busC 55 mins
+busA from 40 mins to 55 mins
+busB from 40 mins to 55 mins
+busC from 40 mins to 55 mins
 busD from 40 mins to 55 mins
