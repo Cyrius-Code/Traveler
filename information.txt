@@ -32,10 +32,15 @@ if you arrive 10mins late or more you lose
 
 Events:
 extreme hunger infliction: you have become extremely hungery do you wish to get of the bus and go eat which will add on an 1hr to 30mins on to the time but will increase your hunger depending on which fast-food or resturants you go to. your hunger will also lose 30% suddenly
+
 roadblock: due a roadblock your buss takes and detour but this will have 20% chance to taken off your travel time and an 80% to add on ranging from 45mins to 15mins this can also lower your sanity bar if there is a delay by 20%
+
 sickeness: due to eating something raw you have must take a 1hrs detour to go a hospital to be heal of the sickness and will take your cash
+
 traffic accident: there was a crash you have lost 20% of your hp and 35% of your sanity and hungery you will need to rest for 2hrs
 
+(weather events only happens once if it chosen)
+Sudden weather change: the weather turns to the worse and heavy rains begins making the road more dangerous sanity drain increase from 5% to 10% as your mood is dampen by the heavy rain
 
 time 
 40 mins - 55 mins = 80% event chance
